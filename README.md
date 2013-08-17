@@ -5,7 +5,9 @@ CPSubversion is a Cpanel/WHM addon that allows system administrators to add Subv
 Features
 ==========
 Create & Manage Subversion Repo's from within WHM
+
 Add Subversion access to new/existing cPanel accounts
+
 cPanel users can access a custom control panel to manage their repo's
 
 
